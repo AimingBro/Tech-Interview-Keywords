@@ -20,9 +20,6 @@
     - Proxy
     - CORS
     - SSL
-
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03d6555e-2933-4b44-9dc2-5bf2e63914a0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03d6555e-2933-4b44-9dc2-5bf2e63914a0/Untitled.png)
-
     - SSH / FTP / Telnet
     - localhost
     - 캐시서버
@@ -45,7 +42,7 @@
     - 커널 / 쉘
     - 프로세스
     - 프로세스 메모리 구조 (스택, 데이터, 힙, 텍스트)
-    - 쓰레드 : [https://gist.github.com/batboy118/93edce81974ea9ea24958191739d89a6](https://gist.github.com/batboy118/93edce81974ea9ea24958191739d89a6)
+    - 쓰레드
     - 멀티 / 싱글 쓰레드
     - 프로세스 스케줄링 (생성, 준비, 실행, 대기, 종료)
     - 파일 시스템
@@ -153,7 +150,7 @@
         - 오버로딩 / 오버라이딩
         - 상속
         - 클래스 / 오브젝트 / 인스턴스 차이
-    - 함수형프로그래밍 : [https://gist.github.com/batboy118/5c7f44fa8befb55ab393067bdff465fb](https://gist.github.com/batboy118/5c7f44fa8befb55ab393067bdff465fb)
+    - 함수형프로그래밍
     - SOLID
     - MVC
     - 테스트 (단위, 통합, 시스템, 인수)
