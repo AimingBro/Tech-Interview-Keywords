@@ -169,4 +169,25 @@
     - 단일책임
     - 의존성관리 (*의존성주입)
 - 웹
+    - 인증 ( Authentication) vs 인가 ( Authorization )
+    - REST API
+    - DOM
+    - css 캐스캐이딩
+    - 렌더링
+    - CGI -> ASP -> PHP -> JSP -> Sevlet -> ejb -> Spring
+    - 스프링, 장고, 레일즈 : 풀 프레임워크 (필요한 것이 다 기본으로 있음)
+    - Express : 필요한 모듈을 가져다 써야함
+    - SPA / SSR
 - 기술
+    - 레디스
+    - 엘라스틱서치
+    - 하둡
+    - 레빗엠큐
+    - 젠킨스
+    - 포스트그레스SQL
+    - 웹팩
+    - 바벨
+    - 리덕스
+    - socket.IO
+    - jest
+    - pm2
